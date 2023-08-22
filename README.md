@@ -19,3 +19,9 @@ Potência Tech powered by iFood | Ciências de Dados com Python
     Sistema bancário otimizado, com novas funções de: criar conta, criar usuario, listar contas, filtrar usuario
 
 [Link](https://github.com/DirceuSilvestre/Bootcamp-Potencia-Tech-iFood/blob/main/BancoOtimizado.py)
+
+## 4ª Entrega
+
+    Criando e implementando um projeto lógico de banco de dados
+
+[Link](https://github.com/DirceuSilvestre/Bootcamp-Potencia-Tech-iFood/blob/main/bd.sql)
